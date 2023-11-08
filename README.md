@@ -29,3 +29,6 @@ Key components and tasks within NLP include:
 
 NLP has a wide range of practical applications, including chatbots, sentiment analysis for social media monitoring, language translation, content recommendation systems, and much more. It is a rapidly evolving field with a significant impact on industries such as healthcare, finance, marketing, and customer service. NLP techniques and models continue to advance, and they are at the core of many modern AI applications.
 
+To see an introduction of natural language processing follow the link of kaggle notebook to get my works; 
+https://www.kaggle.com/code/robertgembe/introduction-to-natural-language-processing/notebook
+
