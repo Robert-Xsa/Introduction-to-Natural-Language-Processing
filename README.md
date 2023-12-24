@@ -1,3 +1,4 @@
+# Introduction to Natural Language Processing
 Natural Language Processing (NLP) is a field of artificial intelligence (AI) that focuses on the interaction between computers and humans through natural language. It encompasses the development of algorithms and models to enable computers to understand, interpret, generate, and respond to human language in a valuable way. NLP aims to bridge the gap between human communication and computer understanding, making it possible for machines to work with text and speech data effectively.
 Key components and tasks within NLP include:
 
